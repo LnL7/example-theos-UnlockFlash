@@ -1,0 +1,1 @@
+Hooks into SBAwayLockBar and adds a SBScreenFlash to the Unlock Method.
